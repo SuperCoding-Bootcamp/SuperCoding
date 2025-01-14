@@ -4,7 +4,7 @@
 
 ![스크린샷 2025-01-10 오후 4 20 44](https://github.com/user-attachments/assets/d7cbdd5f-5b8e-4f7c-8185-17bb04e5685a)
 
-### 메모앱이 로컬에서 구현 완료된 상태라고 가정하고 작성된 가이드입니다. 해당 부분 코드는 [매모앱 소스코드](https://github.com/SuperCoding-Bootcamp/SuperCoding/tree/main/code/memo-app)에서 보실 수 있습니다.
+### 메모앱이 로컬에서 구현 완료된 상태라고 가정하고 작성된 가이드입니다. 해당 부분 코드는 [메모앱 소스코드](https://github.com/SuperCoding-Bootcamp/SuperCoding/tree/main/code/memo-app)에서 보실 수 있습니다.
 
 ### venv(가상환경) 관련한 부분은 특정 케이스에서 필요한 요소이고, [install-related-python.md](https://github.com/SuperCoding-Bootcamp/SuperCoding/blob/main/manual/install-related-python.md)에서 필요하신 분들은 이미 설정되어 있으실 겁니다. python 관련 패키지 설치에서 문제 겪지 않으신 분들은 무시해주셔도 무방합니다!
 
